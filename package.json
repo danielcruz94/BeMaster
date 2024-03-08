@@ -1,0 +1,19 @@
+{
+  "name": "bemaster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielcruz94/BeMaster.git"
+  },
+  "author": "Daniel Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielcruz94/BeMaster/issues"
+  },
+  "homepage": "https://github.com/danielcruz94/BeMaster#readme"
+}
