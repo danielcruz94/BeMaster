@@ -5,18 +5,23 @@ import Email from "./Email/Email";
 import Contraseña from "./Contraseña/Contraseña";
 const Form = () => {
 
+    const [email,setEmail]=useState(true)
+    
+const toggle =() => {
+setEmail(false)
+}
 
 
 
   return (
     <div className="contenedorlogin">
       <form action="" className={"contenedorPrincipal"}>
-        <Email/>
-       {/* <Contraseña/> */}
+        {email &&<Email/>}
+        {!email &&<Contraseña/>}
        
        
       </form>
-      <button>Continuar</button>
+      <button onClick={toggle}>Continuar</button>
       
     </div>
   );

@@ -1,13 +1,15 @@
+import data from '../../../../data.json'
 const Home =() => {
-    
+  console.log(data)
     
     return (
 
+
     <div>
-        <h1>Home</h1>
+        {/* {disneyMovies.map((movie) =><h1>{movie.nombre}</h1>)} */}
+        <h1>idnidn</h1>
 
     </div>
-
     )
 
 
