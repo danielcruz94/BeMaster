@@ -1,13 +1,14 @@
 import data from '../../../../data.json'
+import Card from './Card/Card'
 const Home =() => {
-  console.log(data)
+  const generos=["Niños","Acción","Comedia","Romance","Terror"]
     
     return (
 
 
-    <div>
-        {/* {disneyMovies.map((movie) =><h1>{movie.nombre}</h1>)} */}
-        <h1>idnidn</h1>
+    <div className="card">
+        {generos.map((movie) =><Card genero={movie}/>)}
+        
 
     </div>
     )

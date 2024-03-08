@@ -1,0 +1,22 @@
+.card{
+display: flex;
+
+flex-wrap: wrap;
+/* border: 10px solid white; */
+justify-content: space-around;
+
+}
+
+.cardImg{
+    border: 1px solid white;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    margin: 10px;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    
+}
