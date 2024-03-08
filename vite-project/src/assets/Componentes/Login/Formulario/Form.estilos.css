@@ -5,3 +5,40 @@
 
 }
 
+.contenedorlogin{
+
+    background-color: white;
+    border-radius: 20px;
+    width: 400px;
+    height: 270px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+
+}
+
+.inputEmail{
+
+    width: 200px;
+    background-color: #E6EEFF;
+    height: 50px;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 20px;
+
+}
+
+.inputContraseña{
+
+    width: 200px;
+    background-color: #E6EEFF;
+    height: 50px;
+    border: none;
+    border-radius: 4px;
+    text-align: center;
+    margin-top: 20px;
+
+}
