@@ -1,0 +1,124 @@
+[
+    {
+      "nombre": "Blancanieves y los siete enanitos",
+      "imagen": "https://www.pinterest.com/pin/pin-en-with-walt-disney--190417890474033254/",
+      "descripcion": "Una joven princesa huye de su malvada madrastra y encuentra refugio con siete enanitos en el bosque.",
+      "actores": ["Adriana Caselotti (Blancanieves)", "Lucille La Verne (Madrastra)", "Harry Stockwell (Príncipe)"]
+    },
+    {
+      "nombre": "La Bella y la Bestia",
+      "imagen": "https://www.redbubble.com/es/shop/la+bella+y+la+bestia+posters",
+      "descripcion": "Una joven se enamora de una bestia encantada que vive en un castillo.",
+      "actores": ["Paige O'Hara (Bella)", "Robby Benson (Bestia)", "Richard White (Gastón)"]
+    },
+    {
+      "nombre": "El Rey León",
+      "imagen": "https://pr.ebay.com/b/Home-Decor-Lion-King-Posters/bn_7024750212",
+      "descripcion": "Un joven león debe aprender a ser rey después de que su tío asesina a su padre.",
+      "actores": ["Matthew Broderick (Simba)", "James Earl Jones (Mufasa)", "Jeremy Irons (Scar)"]
+    },
+    {
+      "nombre": "Aladdin",
+      "imagen": "https://www.amazon.com/aladdin-poster/s?k=aladdin+poster",
+      "descripcion": "Un joven de la calle encuentra una lámpara mágica que le concede tres deseos.",
+      "actores": ["Scott Weinger (Aladdin)", "Robin Williams (Genio)", "Linda Larkin (Jasmine)"]
+    },
+    {
+      "nombre": "Toy Story",
+      "imagen": "https://www.amazon.com/Toy-Story-poster/s?k=Toy+Story+poster",
+      "descripcion": "Un grupo de juguetes cobra vida cuando los humanos no están cerca.",
+      "actores": ["Tom Hanks (Woody)", "Tim Allen (Buzz Lightyear)", "Annie Potts (Bo Peep)"]
+    },
+    {
+      "nombre": "Buscando a Nemo",
+      "imagen": "https://www.etsy.com/market/finding_nemo_poster",
+      "descripcion": "Un pez payaso se embarca en un peligroso viaje para encontrar a su hijo secuestrado.",
+      "actores": ["Albert Brooks (Marlin)", "Ellen DeGeneres (Dory)", "Willem Dafoe (Gill)"]
+    },
+    {
+      "nombre": "Monsters, Inc.",
+      "imagen": "https://www.amazon.com/monsters-inc-posters/s?k=monsters+inc+posters",
+      "descripcion": "Dos monstruos asustadores descubren que una niña pequeña no es tan aterradora como pensaban.",
+      "actores": ["John Goodman (Sulley)", "Billy Crystal (Mike Wazowski)", "Mary Gibbs (Boo)"]
+    },
+    {
+      "nombre": "Up",
+      "imagen": "https://www.amazon.com/Up-poster/s?k=Up+poster",
+      "descripcion": "Un anciano emprende un viaje por América del Sur en su casa voladora.",
+      "actores": ["Ed Asner (Carl Fredricksen)", "Jordan Nagai (Russell)"]
+    },
+    {
+      "nombre": "WALL-E",
+      "imagen": "https://www.etsy.com/market/wall_e_poster",
+      "descripcion": "Un pequeño robot se enamora de otro robot y juntos emprenden una aventura espacial.",
+      "actores": ["Ben Burtt (WALL-E)", "Elissa Knight (EVE)"]
+    },
+    {
+      "nombre": "La Sirenita",
+      "imagen": "https://www.amazon.com/Little-Mermaid-poster/s?k=The+Little+Mermaid+poster",
+      "descripcion": "Una sirena hace un trato con una bruja para convertirse en humana y poder estar con el hombre que ama.",
+      "actores": ["Jodi Benson (Ariel)", "Christopher Daniel Barnes (Eric)", "Pat Carroll (Úrsula)"]
+    },
+    {
+        "nombre": "Mulan",
+        "imagen": "https://www.amazon.com/Mulan-poster/s?k=Mulan+poster",
+        "descripcion": "Una joven china se disfraza de hombre para tomar el lugar de su padre en el ejército.",
+        "actores": ["Ming-Na Wen (Mulan)", "Eddie Murphy (Mushu)", "BD Wong (Shang)"]
+      },
+      {
+        "nombre": "Pocahontas",
+        "imagen": "https://www.amazon.com/Pocahontas-poster/s?k=Pocahontas+poster",
+        "descripcion": "Una joven nativa americana se enamora de un colono inglés.",
+        "actores": ["Irene Bedard (Pocahontas)", "Mel Gibson (John Smith)", "David Ogden Stiers (Governor Ratcliffe)"]
+      },
+      {
+        "nombre": "Tarzán",
+        "imagen": "https://www.amazon.com/Tarzan-poster/s?k=Tarzan+poster",
+        "descripcion": "Un niño criado por gorilas se enamora de una mujer humana.",
+        "actores": ["Tony Goldwyn (Tarzán)", "Minnie Driver (Jane Porter)", "Phil Collins (Clayton)"]
+      },
+      {
+        "nombre": "El jorobado de Notre Dame",
+        "imagen": "https://www.amazon.com/Hunchback-Notre-Dame-poster/s?k=The+Hunchback+of+Notre+Dame+poster",
+        "descripcion": "Un jorobado que vive en una catedral se enamora de una gitana.",
+        "actores": ["Tom Hulce (Quasimodo)", "Demi Moore (Esmeralda)", "Kevin Kline (Phoebus)"]
+      },
+      {
+        "nombre": "Fantasía",
+        "imagen": "https://www.amazon.com/Fantasia-poster/s?k=Fantasia+poster",
+        "descripcion": "Una película de animación que combina música clásica con imágenes.",
+        "actores": ["Leopold Stokowski (Director de orquesta)"]
+      },
+      {
+        "nombre": "Bambi",
+        "imagen": "https://www.amazon.com/Bambi-poster/s?k=Bambi+poster",
+        "descripcion": "Un joven ciervo aprende sobre la vida y la muerte en el bosque.",
+        "actores": ["Bobby Stewart (Bambi)", "Donnie Dunagan (Thumper)", "Hardie Albright (Bambi adulto)"]
+      },
+      {
+        "nombre": "Dumbo",
+        "imagen": "https://www.amazon.com/Dumbo-poster/s?k=Dumbo+poster",
+        "descripcion": "Un elefante bebé con orejas grandes aprende a volar.",
+        "actores": ["Edward Brophy (Timothy Q. Mouse)", "Sterling Holloway (Dumbo)", "Verna Felton (Mrs. Jumbo)"]
+      },
+      {
+        "nombre": "La Cenicienta",
+        "imagen": "https://www.amazon.com/Cinderella-poster/s?k=cinderella+poster",
+        "descripcion": "Una joven con sueños imposibles recibe la ayuda de su hada madrina para asistir a un baile real.",
+        "actores": ["Ilene Woods (Cenicienta)", "Eleanor Audley (Madrastra)", "James MacDonald (Príncipe)"]
+      },
+      {
+        "nombre": "Peter Pan",
+        "imagen": "https://www.amazon.com/Peter-Pan-poster/s?k=Peter+Pan+poster",
+        "descripcion": "Un niño que nunca envejece lleva a Wendy y sus hermanos a Nunca Jamás.",
+        "actores": ["Bobby Driscoll (Peter Pan)", "Kathryn Beaumont (Wendy Darling)", "Hans Conried (Capitán Garfio)"]
+      },
+      {
+        "nombre": "Alicia en el país de las maravillas",
+        "imagen": "https://www.amazon.com/Alice-Wonderland-poster/s?k=Alice+in+Wonderland+poster",
+        "descripcion": "Una niña cae por una madriguera de conejo y llega a un mundo extraño y maravilloso.",
+        "actores": ["Kathryn Beaumont (Alicia)", "Ed Wynn (Sombrerero Loco)", "Sterling Holloway (Gato de Cheshire)"]
+      }
+    ]
+
+   
