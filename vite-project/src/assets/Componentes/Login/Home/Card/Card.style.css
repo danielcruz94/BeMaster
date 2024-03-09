@@ -8,12 +8,12 @@ justify-content: space-around;
 }
 
 .cardImg{
-    border: 1px solid black;
+    border: 1px inset white;
     width: 200px;
     height: 200px;
     border-radius: 5px;
     margin: 10px;
-    
+    color: orange;
     display: flex;
     justify-content: center;
     align-items: center;

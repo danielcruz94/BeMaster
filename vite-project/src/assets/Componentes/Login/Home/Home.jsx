@@ -6,7 +6,7 @@ const Home =() => {
     return (
 
 
-    <div className="card">
+    <div className="card" style={{width:'100vw',marginTop:'170px'}}>
         {generos.map((movie) =><Card genero={movie}/>)}
         
 
