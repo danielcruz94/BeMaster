@@ -1,0 +1,65 @@
+[
+    {
+      "titulo": "Diario de una pasión",
+      "año": 2004,
+      "descripcion": "Noah y Allie, separados por la diferencia de clases sociales, se reencuentran años después y reavivan su apasionado romance.",
+      "actores": ["Ryan Gosling", "Rachel McAdams", "James Garner"],
+      "imagen": "https://www.imdb.com/title/tt0370704/"
+    },
+    {
+      "titulo": "Orgullo y prejuicio",
+      "año": 2005,
+      "descripcion": "Elizabeth Bennet, una mujer inteligente e independiente, se enamora del Sr. Darcy, un caballero rico y arrogante.",
+      "actores": ["Keira Knightley", "Matthew Macfadyen", "Brenda Blethyn"],
+      "imagen": "https://www.imdb.com/title/tt0365969/"
+    },
+    {
+      "titulo": "La La Land",
+      "año": 2016,
+      "descripcion": "Un pianista de jazz y una aspirante a actriz se enamoran en Los Ángeles mientras persiguen sus sueños.",
+      "actores": ["Ryan Gosling", "Emma Stone", "John Legend"],
+      "imagen": "https://www.imdb.com/title/tt3783958/"
+    },
+    {
+      "titulo": "Posdata: Te amo",
+      "año": 2007,
+      "descripcion": "Holly Kennedy queda destrozada tras la muerte de su marido, pero encuentra consuelo en las cartas que le dejó antes de partir.",
+      "actores": ["Hilary Swank", "Gerard Butler", "Kathy Bates"],
+      "imagen": "https://www.imdb.com/title/tt0411809/"
+    },
+    {
+      "titulo": "Como si fuera la primera vez",
+      "año": 2004,
+      "descripcion": "Lucy, que sufre de pérdida de memoria a corto plazo, y Henry, un biólogo marino, se enamoran una y otra vez cada día.",
+      "actores": ["Adam Sandler", "Drew Barrymore", "Rob Schneider"],
+      "imagen": "https://www.imdb.com/title/tt0368788/"
+    },
+    {
+      "titulo": "Eterno resplandor de una mente sin recuerdos",
+      "año": 2004,
+      "descripcion": "Joel Barish, tras una dolorosa ruptura con su novia Clementine, decide someterse a un procedimiento para borrarla de su memoria.",
+      "actores": ["Jim Carrey", "Kate Winslet", "Elijah Wood"],
+      "imagen": "https://www.imdb.com/title/tt0370000/"
+    },
+    {
+      "titulo": "Cuando te encuentre",
+      "año": 2005,
+      "descripcion": "Un soldado que escribe cartas a su futura esposa desde la guerra se enamora de una mujer madura que las lee.",
+      "actores": ["Nicholas Sparks", "Mandy Moore", "Ryan McPartlin"],
+      "imagen": "https://www.imdb.com/title/tt0413873/"
+    },
+    {
+      "titulo": "Cruzando el destino",
+      "año": 2000,
+      "descripcion": "Dos niños que intercambian diarios por casualidad se enamoran a pesar de estar separados por miles de kilómetros.",
+      "actores": ["Macaulay Culkin", "Anna Chlumsky", "Jamie Lee Curtis"],
+      "imagen": "https://www.imdb.com/title/tt0242629/"
+    },
+    {
+      "titulo": "Un paseo para recordar",
+      "año": 2002,
+      "descripcion": "Un chico popular se enamora de una chica con cáncer terminal y trata de cumplirle todos sus deseos.",
+      "actores": ["Shane West", "Mandy Moore", "Peter Dinklage"],
+      "imagen": "https://www.imdb.com/title/tt0284323/"
+    }
+]

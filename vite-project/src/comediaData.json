@@ -1,0 +1,71 @@
+[
+    {
+      "titulo": "No mires arriba",
+      "año": 2021,
+      "descripcion": "Dos astrónomos descubren un cometa que va a destruir la Tierra, pero nadie les cree.",
+      "actores": ["Leonardo DiCaprio", "Jennifer Lawrence", "Meryl Streep"],
+      "imagen": "https://www.imdb.com/title/tt11286314/"
+    },
+    {
+      "titulo": "Free Guy",
+      "año": 2021,
+      "descripcion": "Un cajero de banco descubre que es un personaje no jugador en un videojuego de mundo abierto.",
+      "actores": ["Ryan Reynolds", "Jodie Comer", "Taika Waititi"],
+      "imagen": "https://www.imdb.com/title/tt6264654/"
+    },
+    {
+      "titulo": "El hombre invisible",
+      "año": 2020,
+      "descripcion": "Una mujer es perseguida por su exmarido, quien se ha vuelto invisible.",
+      "actores": ["Elisabeth Moss", "Aldis Hodge", "Storm Reid"],
+      "imagen": "https://www.imdb.com/title/tt1051906/"
+    },
+    {
+      "titulo": "Jojo Rabbit",
+      "año": 2019,
+      "descripcion": "Un niño alemán tiene como amigo imaginario a Adolf Hitler durante la Segunda Guerra Mundial.",
+      "actores": ["Roman Griffin Davis", "Scarlett Johansson", "Taika Waititi"],
+      "imagen": "https://www.imdb.com/title/tt2584384/"
+    },
+    {
+      "titulo": "Cuchillos por la espalda",
+      "año": 2019,
+      "descripcion": "Un detective privado investiga la muerte del famoso novelista Harlan Thrombey.",
+      "actores": ["Daniel Craig", "Chris Evans", "Ana de Armas"],
+      "imagen": "https://m.imdb.com/title/tt8946378/?language=es-es"
+    },
+    {
+      "titulo": "La favorita",
+      "año": 2018,
+      "descripcion": "Dos mujeres compiten por la atención de la reina Ana de Gran Bretaña.",
+      "actores": ["Olivia Colman", "Emma Stone", "Rachel Weisz"],
+      "imagen": "https://www.imdb.com/title/tt5083738/"
+    },
+    {
+      "titulo": "Lady Bird",
+      "año": 2017,
+      "descripcion": "Una adolescente de Sacramento, California, sueña con mudarse a la ciudad de Nueva York para estudiar arte.",
+      "actores": ["Saoirse Ronan", "Laurie Metcalf", "Timothée Chalamet"],
+      "imagen": "https://www.imdb.com/title/tt4925292/"
+    },
+    {
+      "titulo": "Huye",
+      "año": 2017,
+      "descripcion": "Un joven afrodescendiente va a conocer a la familia de su novia blanca y descubre que tienen un oscuro secreto.",
+      "actores": ["Daniel Kaluuya", "Allison Williams", "Bradley Whitford"],
+      "imagen": "https://www.imdb.com/title/tt10292420/"
+    },
+    {
+      "titulo": "Deadpool",
+      "año": 2016,
+      "descripcion": "Un exmercenario con cáncer se convierte en Deadpool, un antihéroe con un humor negro y sarcástico.",
+      "actores": ["Ryan Reynolds", "Morena Baccarin", "T.J. Miller"],
+      "imagen": "https://www.imdb.com/title/tt1431045/"
+    },
+    {
+      "titulo": "Birdman",
+      "año": 2014,
+      "descripcion": "Un actor en decadencia que interpretó a un superhéroe en el pasado busca recuperar su fama.",
+      "actores": ["Michael Keaton", "Edward Norton", "Emma Stone"],
+      "imagen": "https://www.imdb.com/title/tt2562232/"
+    }]

@@ -1,0 +1,72 @@
+[
+    {
+      "titulo": "Mad Max: Furia en la Carretera",
+      "año": 2015,
+      "descripcion": "En un mundo apocalíptico, Max Rockatansky se une a Furiosa para huir del tirano Immortan Joe.",
+      "actores": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
+      "imagen": "https://www.imdb.com/title/tt1392190/"
+    },
+    {
+      "titulo": "John Wick: Chapter 3 - Parabellum",
+      "año": 2019,
+      "descripcion": "John Wick es excomulgado y debe luchar por su supervivencia contra todos los asesinos del mundo.",
+      "actores": ["Keanu Reeves", "Halle Berry", "Ian McShane"],
+      "imagen": "https://en.wikipedia.org/wiki/John_Wick:_Chapter_3_%E2%80%93_Parabellum"
+    },
+    {
+      "titulo": "Misión Imposible: Fallout",
+      "año": 2018,
+      "descripcion": "Ethan Hunt y su equipo se enfrentan a una nueva amenaza mientras intentan recuperar tres esferas de plutonio.",
+      "actores": ["Tom Cruise", "Henry Cavill", "Rebecca Ferguson"],
+      "imagen": "https://en.wikipedia.org/wiki/Mission:_Impossible_%E2%80%93_Fallout"
+    },
+    {
+      "titulo": "Dredd",
+      "año": 2012,
+      "descripcion": "En un futuro distópico, la jueza Dredd y un joven cadete deben luchar contra una banda de criminales en un edificio de Mega-City One.",
+      "actores": ["Karl Urban", "Olivia Thirlby", "Lena Headey"],
+      "imagen": "https://en.wikipedia.org/wiki/Dredd"
+    },
+    {
+      "titulo": "The Raid 2",
+      "año": 2014,
+      "descripcion": "Rama se infiltra en la mafia indonesia para descubrir la identidad de los responsables de la muerte de su hermano.",
+      "actores": ["Iko Uwais", "Yayan Ruhian", "Arifin Putra"],
+      "imagen": "https://en.wikipedia.org/wiki/The_Raid_2"
+    },
+    {
+      "titulo": "Kill Bill: Volumen 1",
+      "año": 2003,
+      "descripcion": "Beatrix Kiddo busca venganza contra los miembros de Deadly Viper Assassination Squad que la traicionaron.",
+      "actores": ["Uma Thurman", "Lucy Liu", "David Carradine"],
+      "imagen": "https://www.imdb.com/title/tt0266697/"
+    },
+    {
+      "titulo": "El bueno, el feo y el malo",
+      "año": 1966,
+      "descripcion": "Tres pistoleros se unen para buscar un tesoro escondido durante la Guerra Civil estadounidense.",
+      "actores": ["Clint Eastwood", "Lee Van Cleef", "Eli Wallach"],
+      "imagen": "https://www.youtube.com/watch?v=exJOy6uTkek"
+    },
+    {
+      "titulo": "Die Hard",
+      "año": 1988,
+      "descripcion": "Un policía de Nueva York se infiltra en un rascacielos de Los Ángeles para rescatar a los rehenes de un grupo de terroristas.",
+      "actores": ["Bruce Willis", "Alan Rickman", "Bonnie Bedelia"],
+      "imagen": "https://en.wikipedia.org/wiki/Die_Hard"
+    },
+    {
+      "titulo": "Terminator 2: El juicio final",
+      "año": 1991,
+      "descripcion": "Sarah Connor y su hijo John son perseguidos por un cyborg enviado por Skynet para eliminarlos.",
+      "actores": ["Arnold Schwarzenegger", "Linda Hamilton", "Edward Furlong"],
+      "imagen": "https://es.wikipedia.org/wiki/Terminator_2:_el_juicio_final"
+    },
+    {
+      "titulo": "Mad Max",
+      "año": 1979,
+      "descripcion": "En un futuro distópico, Max Rockatansky persigue a una banda de motociclistas que le robaron su coche y mataron a su familia.",
+      "actores": ["Mel Gibson", "Joanne Samuel", "Hugh Keays-Byrne"],
+      "imagen": "https://en.wikipedia.org/wiki/Mad_Max"
+    }
+  ]
