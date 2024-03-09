@@ -1,11 +1,12 @@
 import './Card.style.css'
-const Card=({genero}) => {
+const Card=({genero,img}) => {
 
 
     return (
         <div>
             
-            <h2  className='cardImg'>{genero}</h2>
+            <h2  className='cardImg' >{genero}</h2>
+            <img src={img} alt="" style={{width:'200px'}}/>
         </div>
     )
 }
