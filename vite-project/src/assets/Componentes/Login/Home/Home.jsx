@@ -1,7 +1,7 @@
 import data from '../../../../data.json'
 import Card from './Card/Card'
 const Home =() => {
-  const generos=["Niños","Acción","Comedia","Romance","Terror"]
+  const generos=["Infantil","Acción","Comedia","Romance","Terror"]
     
     return (
 
