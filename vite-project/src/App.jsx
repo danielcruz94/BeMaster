@@ -15,7 +15,7 @@ function App() {
 
     
     
-    <div>
+    <div >
       <NavBar/>
       <Routes>
       <Route path='' element={<h1>BeMaster</h1>}/>
