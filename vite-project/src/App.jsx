@@ -14,6 +14,7 @@ import comediaData from '../src/comediaData.json'
 import romanceData from '../src/romanceData.json'
 import accionData from '../src/accionData.json'
 import terrorData from '../src/terrorData.json'
+import ContentDetails from "./assets/Componentes/Login/Home/ContentCategory/ContentDetails/ContentDetails";
 
 
 
@@ -34,7 +35,7 @@ function App() {
       <Route path='/romance' element={<ContentCategory informacion={romanceData}/>}/>
       <Route path='/infantil' element={<ContentCategory informacion={data}/>}/>
 
-      
+      <Route path='/infantil/:id' element={<ContentDetails />}/>
       <Route path='' element={<h1>BeMaster</h1>}/>
       <Route path='/home' element={<Home/>}/>
       <Route path='/login' element={<Form/>}/>

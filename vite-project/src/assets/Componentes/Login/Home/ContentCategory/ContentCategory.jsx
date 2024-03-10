@@ -1,14 +1,19 @@
-
+import { useNavigate } from "react-router-dom"
 
 import CardPeliculas from './CardPeliculas';
 const ContentCategory =({informacion}) => {
-    
-    
+    const navegate = useNavigate();
+
+    const goMovie=(nombre) => {
+        // navegate(`/infantil/${nombre}`)
+        console.log(nombre)
+
+    }
     return (
 
 
     <div style={{display:'flex',flexWrap:'wrap',width:'90vw',margin:'100px',gap:'10px'}}>
-        {informacion.map((movie) =><CardPeliculas imagen={movie.imagen} nombre={movie.nombre} key={movie.nombre}/>  )}
+        {informacion.map((movie) =><CardPeliculas imagen={movie.imagen} nombre={movie.nombre||movie.titulo} key={movie.nombre|| movie.titulo} goMovie={goMovie}/>  )}
     </div>
 
     )
@@ -18,3 +23,5 @@ const ContentCategory =({informacion}) => {
 }
 
 export default ContentCategory;
+
+// onclick={() => goMovie(movie.nombre)}
