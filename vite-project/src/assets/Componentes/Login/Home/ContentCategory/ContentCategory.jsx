@@ -6,10 +6,11 @@ const ContentCategory =({informacion}) => {
   
     const {pathname}=useLocation();
     
-    const goMovie=(nombre) => {
+    const goMovie=(id) => {
         
-        navegate(`/detalle/${nombre}`)
-        console.log(nombre)
+        navegate(`/detalle/${id}`)
+       
+        
 
     }
 
@@ -17,7 +18,7 @@ const ContentCategory =({informacion}) => {
 
 
     <div style={{display:'flex',flexWrap:'wrap',width:'90vw',margin:'100px',gap:'10px'}}>
-        {informacion.map((movie) =><CardPeliculas imagen={movie.imagen} nombre={movie.nombre||movie.titulo} key={movie.nombre|| movie.titulo} goMovie={goMovie} />  )}
+        {informacion.map((movie) =><CardPeliculas imagen={movie.imagen} nombre={movie.nombre||movie.titulo} key={movie.nombre|| movie.titulo} goMovie={goMovie} id={movie.id}/>  )}
     </div>
 
     )
