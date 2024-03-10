@@ -1,12 +1,12 @@
 import './Card.style.css'
-const Card=({genero,img}) => {
+const Card=({genero,img,imprimir}) => {
 
 
     return (
-        <div>
+        <div >
             
-            <h2  className='cardImg' >{genero}</h2>
-            <img src={img} alt="" style={{width:'200px'}}/>
+            <h2  className='cardImg' onClick={() => imprimir(genero)}>{genero}</h2>
+           
         </div>
     )
 }

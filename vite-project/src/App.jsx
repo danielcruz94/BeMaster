@@ -10,6 +10,11 @@ import NavBar from "./assets/Componentes/Login/Home/NavBar/NavBar";
 import ContentCategory from "./assets/Componentes/Login/Home/ContentCategory/ContentCategory";
 
 import data from '../src/data.json'
+import comediaData from '../src/comediaData.json'
+import romanceData from '../src/romanceData.json'
+import accionData from '../src/accionData.json'
+import terrorData from '../src/terrorData.json'
+
 
 
 function App() {
@@ -22,10 +27,14 @@ function App() {
     <div >
       <NavBar/>
       <Routes>
-      <Route path='/accion' element={<ContentCategory informacion={data}/>}/>
-      <Route path='/comedia' element={<ContentCategory informacion={data}/>}/>
-      <Route path='/romance' element={<ContentCategory informacion={data}/>}/>
-      <Route path='/infantiles' element={<ContentCategory informacion={data}/>}/>
+      {/* // Rutas de categorias */}
+      <Route path='/terror' element={<ContentCategory informacion={terrorData}/>}/>
+      <Route path='/accion' element={<ContentCategory informacion={accionData}/>}/>
+      <Route path='/comedia' element={<ContentCategory informacion={comediaData}/>}/>
+      <Route path='/romance' element={<ContentCategory informacion={romanceData}/>}/>
+      <Route path='/infantil' element={<ContentCategory informacion={data}/>}/>
+
+      
       <Route path='' element={<h1>BeMaster</h1>}/>
       <Route path='/home' element={<Home/>}/>
       <Route path='/login' element={<Form/>}/>

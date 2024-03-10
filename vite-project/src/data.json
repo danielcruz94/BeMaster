@@ -72,7 +72,7 @@
       },
       {
         "nombre": "Tarzán",
-        "imagen": "https://lh3.googleusercontent.com/proxy/_DIbdyovwVb_2qK6YE9HMvF_yu8uqGm3CdZiW519-jRsgFowcAEAE2hmcE21vQkKR9CJtArfyjcQFgwT9sizc8EyskYCKDBc7gYrBymQQHq3Hn_0Y2ps",
+        "imagen": "https://static.gamehag.com/upload/5qkgkb3z2oKz6Otl2SEu0uu8pePi4C.jpg",
         "descripcion": "Un niño criado por gorilas se enamora de una mujer humana.",
         "actores": ["Tony Goldwyn (Tarzán)", "Minnie Driver (Jane Porter)", "Phil Collins (Clayton)"]
       },
@@ -87,36 +87,6 @@
         "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTy6hreXUTgoTgnwcCAJ7FoiNCezW7csZLeJQ&usqp=CAU",
         "descripcion": "Una película de animación que combina música clásica con imágenes.",
         "actores": ["Leopold Stokowski (Director de orquesta)"]
-      },
-      {
-        "nombre": "Bambi",
-        "imagen": "https://m.media-amazon.com/images/S/pv-target-images/9aedca346626b41882c16e11963615840c60f4270995d1e9227814344fec4cd1._SX1080_FMjpg_.jpg",
-        "descripcion": "Un joven ciervo aprende sobre la vida y la muerte en el bosque.",
-        "actores": ["Bobby Stewart (Bambi)", "Donnie Dunagan (Thumper)", "Hardie Albright (Bambi adulto)"]
-      },
-      {
-        "nombre": "Dumbo",
-        "imagen": "https://www.elindependiente.com/wp-content/uploads/2021/01/Disney-censura-a-los-menores-de-7-anos-Dumbo-Peter-Pan-Los-Aristogatos-por-racistas.jpg",
-        "descripcion": "Un elefante bebé con orejas grandes aprende a volar.",
-        "actores": ["Edward Brophy (Timothy Q. Mouse)", "Sterling Holloway (Dumbo)", "Verna Felton (Mrs. Jumbo)"]
-      },
-      {
-        "nombre": "La Cenicienta",
-        "imagen": "https://images-0.rakuten.tv/storage/snapshot/shot/44be4def-9bcb-4e38-a487-efa84e886d61-width936-quality90.jpeg",
-        "descripcion": "Una joven con sueños imposibles recibe la ayuda de su hada madrina para asistir a un baile real.",
-        "actores": ["Ilene Woods (Cenicienta)", "Eleanor Audley (Madrastra)", "James MacDonald (Príncipe)"]
-      },
-      {
-        "nombre": "Peter Pan",
-        "imagen": "https://lumiere-a.akamaihd.net/v1/images/h_peterpan_mobile_19755_314c0de1.jpeg?region=0,0,640,480",
-        "descripcion": "Un niño que nunca envejece lleva a Wendy y sus hermanos a Nunca Jamás.",
-        "actores": ["Bobby Driscoll (Peter Pan)", "Kathryn Beaumont (Wendy Darling)", "Hans Conried (Capitán Garfio)"]
-      },
-      {
-        "nombre": "Alicia en el país de las maravillas",
-        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqTGLl4ig8RPNwwH0S_mC9wzwv4kE3cwmRyQ&usqp=CAU",
-        "descripcion": "Una niña cae por una madriguera de conejo y llega a un mundo extraño y maravilloso.",
-        "actores": ["Kathryn Beaumont (Alicia)", "Ed Wynn (Sombrerero Loco)", "Sterling Holloway (Gato de Cheshire)"]
       }
     ]
 

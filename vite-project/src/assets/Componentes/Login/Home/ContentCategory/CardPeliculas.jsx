@@ -5,7 +5,7 @@ const CardPeliculas =({imagen,nombre}) => {
 
 
     <div>
-        <img src={imagen} alt={nombre} style={{width:'150px',height:'150px',cursor:'pointer'}} />
+        <img src={imagen} alt={nombre} style={{width:'200px',height:'200px',cursor:'pointer'}} />
         
         
     </div>
