@@ -17,13 +17,13 @@ const ContentDetails = () => {
     if(idPeli >= 1 && idPeli <= 15){
        movie=data.find((peli) =>peli.id==idPeli )
     }
-    if(idPeli >= 16 && idPeli <= 23){
+    if(idPeli >= 16 && idPeli <= 25){
       movie= accionData.find((peli) =>peli.id==idPeli )
     }
-    if(idPeli >= 24 && idPeli <= 33){
+    if(idPeli >= 26 && idPeli <= 35){
        movie= comediaData.find((peli) =>peli.id==idPeli )
     }
-    if(idPeli >= 34 && idPeli <= 42){
+    if(idPeli >= 36 && idPeli <= 44){
        movie=  romanceData.find((peli) =>peli.id==idPeli )
     }
     if(idPeli >= 43 ){
@@ -36,9 +36,9 @@ const ContentDetails = () => {
   
   return <div>
     <h1 style={{color:'white'}}>{movie.titulo||movie.nombre}</h1>
-    <img style={{width:'300px',heigth:'300px'}} src={movie.imagen} alt="imagen" />
+    <img style={{width:'150px',heigth:'150px',border:'10px solid white'}} src={movie.imagen} alt="imagen" />
    <b><p style={{color:'white'}}>Sinopsis:{movie.descripcion}</p></b> 
-    <b><span style={{color:'white'}}>Personajes:{}</span></b>
+    
   </div>;
 };
 
