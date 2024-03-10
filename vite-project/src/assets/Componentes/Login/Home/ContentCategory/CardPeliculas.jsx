@@ -1,6 +1,6 @@
+
 const CardPeliculas =({imagen,nombre,goMovie}) => {
-    
-    
+   
     return (
 
 

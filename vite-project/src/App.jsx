@@ -35,7 +35,7 @@ function App() {
       <Route path='/romance' element={<ContentCategory informacion={romanceData}/>}/>
       <Route path='/infantil' element={<ContentCategory informacion={data}/>}/>
 
-      <Route path='/infantil/:id' element={<ContentDetails />}/>
+      <Route path='/detalle/:id' element={<ContentDetails />}/>
       <Route path='' element={<h1>BeMaster</h1>}/>
       <Route path='/home' element={<Home/>}/>
       <Route path='/login' element={<Form/>}/>
