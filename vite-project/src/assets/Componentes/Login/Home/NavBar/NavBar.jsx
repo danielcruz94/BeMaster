@@ -1,3 +1,4 @@
+import { Link} from "react-router-dom";
 
 
 const NavBar=() => {
@@ -11,10 +12,12 @@ const NavBar=() => {
         <div style={{display:'flex',justifyContent:'space-between',alignItems:'center',width:'100vw'}}>
             <div style={{margin:'10px',display:'flex',alignItems:'center',marginLeft:'70px'}}>
                 <img  style={{width:'60px',marginRight:'10px'}}  src="https://cdn-icons-png.flaticon.com/512/2459/2459778.png" alt="bemaster" />
-                <a style={{marginRight:'10px'}}  href="/home">Home</a>
-                <a style={{marginRight:'10px'}} href="/infantil">Series</a>
-                <a style={{marginRight:'10px'}} href="/terror">Peliculas</a>
-                <a style={{marginRight:'10px'}} href="">Mi lista</a>
+                <button >
+            <Link to="home">Home</Link>
+            
+        </button>
+        <button ><Link to="/accion">Series</Link></button>
+         <button>   <Link to="/infantil">Peliculas</Link></button>
 
             </div>
 

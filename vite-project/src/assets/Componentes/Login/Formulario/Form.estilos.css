@@ -6,11 +6,15 @@
 }
 
 .contenedorlogin{
+    position: relative;
+    left: 600px;
+    top:200px;
+    
 
     background-color: white;
     border-radius: 20px;
     width: 400px;
-    height: 270px;
+    height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
